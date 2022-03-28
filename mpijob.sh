@@ -3,7 +3,7 @@
 #SBATCH --ntasks-per-node=40
 #SBATCH -J EXP1
 #SBATCH --time=0-23:30          # time (DD-HH:MM)
-#SBATCH --account=rrg-russ
+#SBATCH --account=XXXX
 cd $SLURM_SUBMIT_DIR
 module load NiaEnv/2018a
 module load intel/2018.2
