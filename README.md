@@ -9,9 +9,13 @@ The Earth’s continental crust has evolved via a series of supercontinent cycle
 ### Authors
 
 Philip J. Heron1, A.L. Peace2, K.J.W. McCaffrey3, and R.N. Pysklywec4
+
 1 University of Toronto Scarborough, Department of Physical and Environmental Sciences, Toronto, ON M1C 1A4, Canada
+
 2 McMaster University, School of Earth, Environment & Society, Hamilton, ON L8S 4K1, Canada
+
 3 Durham University, Department of Earth Sciences, Durham DH1 3LE, UK
+
 4 University of Toronto, Department of Earth Sciences, Toronto, ON M5S 3B1, Canada
 
 
