@@ -1,0 +1,23 @@
+Additonal models realted to the supplemental material. 
+
+Name	            Where	    Description	            
+EXP-1	            Fig 2-3	  Main model as described in text	
+EXP-2	            Fig 3	    Changing subduction angle to 45o	
+EXP-3	            DR8	      Changing subduction angle to 25o	
+EXP-4	            DR8	      Changing subduction angle to 35o	
+EXP-5	            DR9	      EXP-1 with UC and LC scars	
+EXP-6	            DR10	    EXP-1 with CFL to 0.2	
+EXP-7	            DR10	    EXP-1 with CFL to 0.1	
+EXP-8	            DR11	    EXP-1 with lithosphere resolution increase (to 0.7 km)	
+EXP-9 to EXP-10	  DR12	    EXP-1 with a random perturbation of plastic strain to add a background structural weakness to the models (e.g., Naliboff et al., 2020; Gouiza and Naliboff, 2021). 	
+EXP-11	          DR13	    Temperature profile across the model domain reduced as compared to EXP-1 (base of the model 1793K from 1840 K). 	 
+EXP-12	          DR13	    Lithospheric thickness and temperature profile changed to that of Gouiza and Naliboff (2021). Lithospheric thickness increased to 200 km.	No change to EXP-1. 
+EXP-13	          DR14	    Strength of lower crust rheology decreased through changing the viscosity prefactor to values from Rybacki et al. (2006). 	
+EXP-1_2D	        DR15	    2D model of EXP-1 across middle of 3D box (e.g., Fig 3B)	
+EXP-14	          DR15	    Increasing bottom boundary of ML scar to extend to 80 km depth (from 60 km). 2D model. 	
+EXP-15	          DR15	    ML scar top boundary at 50km depth rather 40 km, bottom boundary at 50km. 2D model.	
+EXP-16	          DR15	    ML scar top boundary at 55 km depth, bottom boundary at 75 km. 2D model. 	
+EXP-17 to EXP-23	DR16	    Changing strain weakening parameters, see Table DR5 (2D)	
+EXP-24	          DR17	    Adding in composite rheology: diffusion and dislocation creep. This model also feature random initial strain localization (see EXP-9)	
+EXP-25 	          DR18	    One upper crust composition is applied. 2D model. 	
+EXP-26 to EXP-27	DR19	    Changing thermal expansivity values (2D)	
