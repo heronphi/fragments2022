@@ -1,23 +1,4 @@
-####  ASPECT Input file for Model EXP1 for the publication: 
-## # #  Heron, P.J., et al., 2022, Stranding continental crustal fragments during continental break-up: mantle suture reactivation in the Nain province of Eastern Canada, Geology (submitted), Dr Philip Heron, Dr Alex Peace, Prof Ken McCaffrey, and Prof Russell Pysklywec. 
-##
-## # #
-## # # The input file is based heavily on the ASPECT cookbook 'Continental Extension' which was developed by Prof John Naliboff. The authors thank Prof Naliboff for his work.  
-## # # 
-## # # The majority of the models were completed with the following ASPECT specifications:
-##-- This is ASPECT, the Advanced Solver for Problems in Earth's ConvecTion.
-#
-##-- . version 2.2.0-pre (master, 8df71c585)
-#
-##-- . using deal.II 9.1.1
-#
-##-- . using Trilinos 12.12.1
-#
-##-- . using p4est 2.0.0
-#
-##-- . running in OPTIMIZED mode
 
-# global parameters
 
 set Dimension                              = 2
 set Start time                             = 0
@@ -27,7 +8,7 @@ set Nonlinear solver scheme                = single Advection, iterated Stokes
 set Nonlinear solver tolerance             = 1e-4
 set Max nonlinear iterations               = 50
 set CFL number                             = 0.3
-set Output directory                       = output_model1
+set Output directory                       = output_model1_2D
 set Timing output frequency                = 1
 set Pressure normalization                 = no
 set Resume computation                    = auto
